@@ -10,3 +10,4 @@ sentencepiece == 0.2.0
 torch == 2.3.0
 streamlit-keyup == 0.2.4
 lxml == 4.9.3
+openpyxl == 3.1.5
